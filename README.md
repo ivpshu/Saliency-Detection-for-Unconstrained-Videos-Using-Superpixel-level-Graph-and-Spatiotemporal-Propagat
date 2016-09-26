@@ -11,7 +11,7 @@ will see in the deom.m files.
 2, the saliency map will save in the folder: 
    saliencyMap_Spatialrefined = =['Results/','saliencyMap/',videofolder,'/'];
 
-3，downloads the ground-truth of SegTrackV2 from http://yunpan.cn/c6nUfBMhVvdQ7  and the password is  eb4f
+3，downloads the ground-truth of SegTrackV2 from https://yunpan.cn/ckX9Up4XH54Uu  and the password is  e3e4
 
 This software was developed under 32-bit/64-bit Windows 
 with Matlab R2013b.
